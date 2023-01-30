@@ -1,7 +1,7 @@
-Inery Task : Mutiple Action Create & Destroy
+# Inery Task : Mutiple Action Create & Destroy
 
-Instalation
-
+## Instalation
+~~~
 mkdir test
 ~~~
 ~~~
