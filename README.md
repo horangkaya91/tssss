@@ -33,9 +33,7 @@ touch .env
 nano .env
 ~~~
 ~~~
-pk="Input Private Key"
-accinery="Input Account Inery"
-node="http://Input IP Node Indery:8888"
+Edit from file env-test
 ~~~
 ~~~
 CTRL x  Yes
@@ -71,5 +69,5 @@ node push/push.mjs
 paste block_num in explorer inery  https://explorer.inery.io/
 ~~~
 ~~~
-Validated date in cli with Explorer
+Validated data in cli with Explorer
 
