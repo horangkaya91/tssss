@@ -54,6 +54,9 @@ nano push.mjs
 paste/dowmload form file push.mjs
 ~~~
 ~~~
+CTRL x  Yes
+~~~
+~~~
 cd
 ~~~
 ~~~
