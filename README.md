@@ -1,4 +1,4 @@
-# Inery Task-4 : Mutiple Action Create & Destroy
+# Inery Task-4 : RPC Test -Mutiple Action Create & Destroy
 
 ## Instalation
 ~~~
